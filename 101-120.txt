@@ -1,0 +1,594 @@
+<html>
+<head>
+<style>
+p.a
+{word-spacing: 30cm;
+}
+</style></head>
+<body>
+<table>
+<h3> 101.Parking the car parallel to others, is not so easy for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-101-answers" id="question-101-answers-A" value="A" />
+        <label for="question-101-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-101-answers" id="question-101-answers-B" value="B" />
+        <label for="question-101-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-101-answers" id="question-101-answers-C" value="C" />
+        <label for="question-101-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-101-answers" id="question-101-answers-D" value="D" />
+        <label for="question-101-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-101-answers" id="question-101-answers-E" value="E" />
+        <label for="question-101-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 102.Pencil and paper tasks are tiring and distasteful for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-102-answers" id="question-102-answers-A" value="A" />
+        <label for="question-102-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-102-answers" id="question-102-answers-B" value="B" />
+        <label for="question-102-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-102-answers" id="question-102-answers-C" value="C" />
+        <label for="question-102-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-102-answers" id="question-102-answers-D" value="D" />
+        <label for="question-102-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-102-answers" id="question-102-answers-E" value="E" />
+        <label for="question-102-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 103.Putting a thread in a thin needle, counting pins, arranging very small beads, can be quickly and easily done by you.</h3>
+    
+    <div>
+        <input type="radio" name="question-103-answers" id="question-103-answers-A" value="A" />
+        <label for="question-103-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-103-answers" id="question-103-answers-B" value="B" />
+        <label for="question-103-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-103-answers" id="question-103-answers-C" value="C" />
+        <label for="question-103-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-103-answers" id="question-103-answers-D" value="D" />
+        <label for="question-103-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-103-answers" id="question-103-answers-E" value="E" />
+        <label for="question-103-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 104.You can quickly evaluate and select the finest designs.</h3>
+    
+    <div>
+        <input type="radio" name="question-104-answers" id="question-104-answers-A" value="A" />
+        <label for="question-104-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-104-answers" id="question-104-answers-B" value="B" />
+        <label for="question-104-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-104-answers" id="question-104-answers-C" value="C" />
+        <label for="question-104-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-104-answers" id="question-104-answers-D" value="D" />
+        <label for="question-104-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-104-answers" id="question-104-answers-E" value="E" />
+        <label for="question-104-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 105.Reading road signs and deciphering menus in another language, excites you.</h3>
+    
+    <div>
+        <input type="radio" name="question-105-answers" id="question-105-answers-A" value="A" />
+        <label for="question-105-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-105-answers" id="question-105-answers-B" value="B" />
+        <label for="question-105-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-105-answers" id="question-105-answers-C" value="C" />
+        <label for="question-105-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-105-answers" id="question-105-answers-D" value="D" />
+        <label for="question-105-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-105-answers" id="question-105-answers-E" value="E" />
+        <label for="question-105-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 106.Recording and mixing of music used to be your favourite time pass during schooldays.</h3>
+    
+    <div>
+        <input type="radio" name="question-106-answers" id="question-106-answers-A" value="A" />
+        <label for="question-106-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-106-answers" id="question-106-answers-B" value="B" />
+        <label for="question-106-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-106-answers" id="question-106-answers-C" value="C" />
+        <label for="question-106-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-106-answers" id="question-106-answers-D" value="D" />
+        <label for="question-106-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-106-answers" id="question-106-answers-E" value="E" />
+        <label for="question-106-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 107.Remembering credit card pin number, pass word and address of your friends, is not a difficult task for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-107-answers" id="question-107-answers-A" value="A" />
+        <label for="question-107-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-107-answers" id="question-107-answers-B" value="B" />
+        <label for="question-107-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-107-answers" id="question-107-answers-C" value="C" />
+        <label for="question-107-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-107-answers" id="question-107-answers-D" value="D" />
+        <label for="question-107-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-107-answers" id="question-107-answers-E" value="E" />
+        <label for="question-107-answers-E">E) No </label>
+    </div>
+</table>
+
+
+<table>
+<h3> 108.Repetitive memorization is not a burden for you when learning languages or any type of specialized words.</h3>
+    
+    <div>
+        <input type="radio" name="question-108-answers" id="question-108-answers-A" value="A" />
+        <label for="question-108-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-108-answers" id="question-108-answers-B" value="B" />
+        <label for="question-108-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-108-answers" id="question-108-answers-C" value="C" />
+        <label for="question-108-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-108-answers" id="question-108-answers-D" value="D" />
+        <label for="question-108-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-108-answers" id="question-108-answers-E" value="E" />
+        <label for="question-108-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 109.Scanning a train or bus timetable is seemingly effortless for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-109-answers" id="question-109-answers-A" value="A" />
+        <label for="question-109-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-109-answers" id="question-109-answers-B" value="B" />
+        <label for="question-109-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-109-answers" id="question-109-answers-C" value="C" />
+        <label for="question-109-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-109-answers" id="question-109-answers-D" value="D" />
+        <label for="question-109-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-109-answers" id="question-109-answers-E" value="E" />
+        <label for="question-109-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 110.Seeing and recognizing familiar objects, which are presented in an unexpected angle, is an enjoyable task for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-110-answers" id="question-110-answers-A" value="A" />
+        <label for="question-110-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-110-answers" id="question-110-answers-B" value="B" />
+        <label for="question-110-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-110-answers" id="question-110-answers-C" value="C" />
+        <label for="question-110-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-110-answers" id="question-110-answers-D" value="D" />
+        <label for="question-110-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-110-answers" id="question-110-answers-E" value="E" />
+        <label for="question-110-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 111.Selecting and organizing relevant information for finding the solution to a problem, is an enjoyable task for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-111-answers" id="question-111-answers-A" value="A" />
+        <label for="question-111-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-111-answers" id="question-111-answers-B" value="B" />
+        <label for="question-111-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-111-answers" id="question-111-answers-C" value="C" />
+        <label for="question-111-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-111-answers" id="question-111-answers-D" value="D" />
+        <label for="question-111-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-111-answers" id="question-111-answers-E" value="E" />
+        <label for="question-111-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 112.Solving a logical puzzle is difficult for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-112-answers" id="question-112-answers-A" value="A" />
+        <label for="question-112-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-112-answers" id="question-112-answers-B" value="B" />
+        <label for="question-112-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-112-answers" id="question-112-answers-C" value="C" />
+        <label for="question-112-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-112-answers" id="question-112-answers-D" value="D" />
+        <label for="question-112-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-112-answers" id="question-112-answers-E" value="E" />
+        <label for="question-112-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 113.Taking things apart and putting them back together, excites you.</h3>
+    
+    <div>
+        <input type="radio" name="question-113-answers" id="question-113-answers-A" value="A" />
+        <label for="question-113-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-113-answers" id="question-113-answers-B" value="B" />
+        <label for="question-113-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-113-answers" id="question-113-answers-C" value="C" />
+        <label for="question-113-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-113-answers" id="question-113-answers-D" value="D" />
+        <label for="question-113-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-113-answers" id="question-113-answers-E" value="E" />
+        <label for="question-113-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 114.Thinking differently and from a fresh perspective is difficult for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-114-answers" id="question-114-answers-A" value="A" />
+        <label for="question-114-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-114-answers" id="question-114-answers-B" value="B" />
+        <label for="question-114-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-114-answers" id="question-114-answers-C" value="C" />
+        <label for="question-114-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-114-answers" id="question-114-answers-D" value="D" />
+        <label for="question-114-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-114-answers" id="question-114-answers-E" value="E" />
+        <label for="question-114-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 115.You thrive on taking decisions in situations where information and time, might be limited.</h3>
+    
+    <div>
+        <input type="radio" name="question-115-answers" id="question-115-answers-A" value="A" />
+        <label for="question-115-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-115-answers" id="question-115-answers-B" value="B" />
+        <label for="question-115-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-115-answers" id="question-115-answers-C" value="C" />
+        <label for="question-115-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-115-answers" id="question-115-answers-D" value="D" />
+        <label for="question-115-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-115-answers" id="question-115-answers-E" value="E" />
+        <label for="question-115-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 116.To memorize music, you need to hear it more often and work harder to retain it.</h3>
+    
+    <div>
+        <input type="radio" name="question-116-answers" id="question-116-answers-A" value="A" />
+        <label for="question-116-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-116-answers" id="question-116-answers-B" value="B" />
+        <label for="question-116-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-116-answers" id="question-116-answers-C" value="C" />
+        <label for="question-116-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-116-answers" id="question-116-answers-D" value="D" />
+        <label for="question-116-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-116-answers" id="question-116-answers-E" value="E" />
+        <label for="question-116-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 117.Using mathematical reasoning to solve problems is a challenging task for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-117-answers" id="question-117-answers-A" value="A" />
+        <label for="question-117-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-117-answers" id="question-117-answers-B" value="B" />
+        <label for="question-117-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-117-answers" id="question-117-answers-C" value="C" />
+        <label for="question-117-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-117-answers" id="question-117-answers-D" value="D" />
+        <label for="question-117-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-117-answers" id="question-117-answers-E" value="E" />
+        <label for="question-117-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 118.Utilizing a rapid flow of ideas and including it in your task, engages you the most.</h3>
+    
+    <div>
+        <input type="radio" name="question-118-answers" id="question-118-answers-A" value="A" />
+        <label for="question-118-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-118-answers" id="question-118-answers-B" value="B" />
+        <label for="question-118-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-118-answers" id="question-118-answers-C" value="C" />
+        <label for="question-118-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-118-answers" id="question-118-answers-D" value="D" />
+        <label for="question-118-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-118-answers" id="question-118-answers-E" value="E" />
+        <label for="question-118-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 119.When a task of paper folding is given to you, you can easily unfold the paper visually.</h3>
+    
+    <div>
+        <input type="radio" name="question-119-answers" id="question-119-answers-A" value="A" />
+        <label for="question-119-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-119-answers" id="question-119-answers-B" value="B" />
+        <label for="question-119-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-119-answers" id="question-119-answers-C" value="C" />
+        <label for="question-119-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-119-answers" id="question-119-answers-D" value="D" />
+        <label for="question-119-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-119-answers" id="question-119-answers-E" value="E" />
+        <label for="question-119-answers-E">E) No </label>
+    </div>
+</table>
+
+<table>
+<h3> 120.When looking at a computer or any electrical / electronic system experiencing problems, you can identify and replace the malfunctioning part quickly.</h3>
+    
+    <div>
+        <input type="radio" name="question-120-answers" id="question-120-answers-A" value="A" />
+        <label for="question-120-answers-A">A) Yes  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-120-answers" id="question-120-answers-B" value="B" />
+        <label for="question-120-answers-B">B) Mostly </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-120-answers" id="question-120-answers-C" value="C" />
+        <label for="question-120-answers-C">C) Not sure </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-120-answers" id="question-120-answers-D" value="D" />
+        <label for="question-120-answers-D">D) Rarely  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-120-answers" id="question-120-answers-E" value="E" />
+        <label for="question-120-answers-E">E) No </label>
+    </div>
+</table>
+<p class="a">
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\81-100.html">Previous</a>
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\121-140.html">Next</a>
+</p>
+</body>
+</html>

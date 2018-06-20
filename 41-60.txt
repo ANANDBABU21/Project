@@ -1,0 +1,531 @@
+<html>
+<head>
+<style>
+p.a
+{word-spacing: 30cm;
+}
+</style></head>
+<body>
+<table>
+<h3>41. Lower EI is likely linked to more aggressive behaviour because …</h3>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-A" value="A" />
+        <label for="question-41-answers-A">A)taking action is more important than expressing emotions</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-B" value="B" />
+        <label for="question-41-answers-B">B)people with lower EI often think of themselves as victims</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-C" value="C" />
+        <label for="question-41-answers-C">C)that is the only way the person know how to express their displeasure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-D" value="D" />
+        <label for="question-41-answers-D">D)other’s emotions and behaviours are misinterpreted as hostile and an aggressive response is therefore exhibited</label>
+    </div>
+</table>
+<table>
+<h3>42. Demonstrating incremental validity of which of the following is tricky?</h3>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-A" value="A" />
+        <label for="question-41-answers-A">A)Intelligence</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-B" value="B" />
+        <label for="question-41-answers-B">B)Ability EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-C" value="C" />
+        <label for="question-41-answers-C">C)Trait EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-41-answers" id="question-41-answers-D" value="D" />
+        <label for="question-41-answers-D">D)All of the above</label>
+    </div>
+</table>
+<table>
+<h3>43. Which of the following makes measuring EI challenging?</h3>
+    
+    <div>
+        <input type="radio" name="question-43-answers" id="question-43-answers-A" value="A" />
+        <label for="question-43-answers-A">A)Whether the scenarios presented should be authentic or hypothetical</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-43-answers" id="question-43-answers-B" value="B" />
+        <label for="question-43-answers-B">B)Whether conscious, effortful processing or spontaneous processing of emotional materials should be measured</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-43-answers" id="question-43-answers-C" value="C" />
+        <label for="question-43-answers-C">C)How happy the person is feeling</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-43-answers" id="question-43-answers-D" value="D" />
+        <label for="question-43-answers-D">D)a and b only</label>
+    </div>
+</table>
+<table>
+<h3>44. Ability EI tests are more objective than Trait EI tests because …</h3>
+    
+    <div>
+        <input type="radio" name="question-44-answers" id="question-44-answers-A" value="A" />
+        <label for="question-44-answers-A">A)they are easier to demonstrate one’s own strength</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-44-answers" id="question-44-answers-B" value="B" />
+        <label for="question-44-answers-B">B)participants tended rate their own Trait EI as higher than they actually are</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-44-answers" id="question-44-answers-C" value="C" />
+        <label for="question-44-answers-C">C)they are made up of multiple-choice questions</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-44-answers" id="question-44-answers-D" value="D" />
+        <label for="question-44-answers-D">D)they cost money</label>
+    </div>
+</table>
+<table>
+<h3>45. Dunning-Kruger effect in EI states that …</h3>
+    
+    <div>
+        <input type="radio" name="question-45-answers" id="question-45-answers-A" value="A" />
+        <label for="question-45-answers-A">A)a person with low EI is unaware of his or her own low EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-45-answers" id="question-45-answers-B" value="B" />
+        <label for="question-45-answers-B">B)a person with high EI is aware that others have low EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-45-answers" id="question-45-answers-C" value="C" />
+        <label for="question-45-answers-C">C)a person is the best person to estimate his or her own EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-45-answers" id="question-45-answers-D" value="D" />
+        <label for="question-45-answers-D">D)a person’s EI is best evaluated by others</label>
+    </div>
+</table>
+<table>
+<h3>46. Having high EI may not always be adaptive. Why?</h3>
+    
+    <div>
+        <input type="radio" name="question-46-answers" id="question-46-answers-A" value="A" />
+        <label for="question-46-answers-A">A)Others will likely ignore them</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-46-answers" id="question-46-answers-B" value="B" />
+        <label for="question-46-answers-B">B)They will have high opinion of themselves</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-46-answers" id="question-46-answers-C" value="C" />
+        <label for="question-46-answers-C">C)These people are more sensitive to mood manipulation</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-46-answers" id="question-46-answers-D" value="D" />
+        <label for="question-46-answers-D">D)All of above</label>
+    </div>
+</table>
+<table>
+<h3>47.Studying, discussing and explaining physical science is enjoyable for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-47-answers" id="question-47-answers-A" value="A" />
+        <label for="question-47-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-47-answers" id="question-47-answers-B" value="B" />
+        <label for="question-47-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-47-answers" id="question-47-answers-C" value="C" />
+        <label for="question-47-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-47-answers" id="question-47-answers-D" value="D" />
+        <label for="question-47-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-47-answers" id="question-47-answers-E" value="E" />
+        <label for="question-47-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>48.Acquisition of technical words and terminology is easy for you. </h3>
+    
+    <div>
+        <input type="radio" name="question-48-answers" id="question-48-answers-A" value="A" />
+        <label for="question-48-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-48-answers" id="question-48-answers-B" value="B" />
+        <label for="question-48-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-48-answers" id="question-48-answers-C" value="C" />
+        <label for="question-48-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-48-answers" id="question-48-answers-D" value="D" />
+        <label for="question-48-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-48-answers" id="question-48-answers-E" value="E" />
+        <label for="question-48-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>49. After watching a movie or attending a concert, you sing the new song equally well.</h3>
+    
+    <div>
+        <input type="radio" name="question-49-answers" id="question-49-answers-A" value="A" />
+        <label for="question-49-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-49-answers" id="question-49-answers-B" value="B" />
+        <label for="question-49-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-49-answers" id="question-49-answers-C" value="C" />
+        <label for="question-49-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-49-answers" id="question-49-answers-D" value="D" />
+        <label for="question-49-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-49-answers" id="question-49-answers-E" value="E" />
+        <label for="question-49-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>50. Analyzing huge number of numeric data with speed and accuracy is enjoyable for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-50-answers" id="question-50-answers-A" value="A" />
+        <label for="question-50-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-50-answers" id="question-50-answers-B" value="B" />
+        <label for="question-50-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-50-answers" id="question-50-answers-C" value="C" />
+        <label for="question-50-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-50-answers" id="question-50-answers-D" value="D" />
+        <label for="question-50-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-50-answers" id="question-50-answers-E" value="E" />
+        <label for="question-50-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>51. As soon as you feel you have mastered something, you move on.</h3>
+    
+    <div>
+        <input type="radio" name="question-51-answers" id="question-51-answers-A" value="A" />
+        <label for="question-51-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-51-answers" id="question-51-answers-B" value="B" />
+        <label for="question-51-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-51-answers" id="question-51-answers-C" value="C" />
+        <label for="question-51-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-51-answers" id="question-51-answers-D" value="D" />
+        <label for="question-51-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-51-answers" id="question-51-answers-E" value="E" />
+        <label for="question-51-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>52. Even before completion of a task you ask yourself what is next?</h3>
+    
+    <div>
+        <input type="radio" name="question-52-answers" id="question-52-answers-A" value="A" />
+        <label for="question-52-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-52-answers" id="question-52-answers-B" value="B" />
+        <label for="question-52-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-52-answers" id="question-52-answers-C" value="C" />
+        <label for="question-52-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-52-answers" id="question-52-answers-D" value="D" />
+        <label for="question-52-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-52-answers" id="question-52-answers-E" value="E" />
+        <label for="question-52-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>53. Black cube, pyramid, incomplete open cubes, triangles, turning block, compel you to think of some new task. </h3>
+    
+    <div>
+        <input type="radio" name="question-53-answers" id="question-53-answers-A" value="A" />
+        <label for="question-53-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-53-answers" id="question-53-answers-B" value="B" />
+        <label for="question-53-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-53-answers" id="question-53-answers-C" value="C" />
+        <label for="question-53-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-53-answers" id="question-53-answers-D" value="D" />
+        <label for="question-53-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-53-answers" id="question-53-answers-E" value="E" />
+        <label for="question-53-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>54. Brainstorming often proves extremely satisfying for you.</h3>
+    
+    <div>
+        <input type="radio" name="question-54-answers" id="question-54-answers-A" value="A" />
+        <label for="question-54-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-54-answers" id="question-54-answers-B" value="B" />
+        <label for="question-54-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-54-answers" id="question-54-answers-C" value="C" />
+        <label for="question-54-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-54-answers" id="question-54-answers-D" value="D" />
+        <label for="question-54-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-54-answers" id="question-54-answers-E" value="E" />
+        <label for="question-54-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>55. Building a theory from a restricted number of clues is possible for you. </h3>
+    
+    <div>
+        <input type="radio" name="question-55-answers" id="question-55-answers-A" value="A" />
+        <label for="question-55-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-55-answers" id="question-55-answers-B" value="B" />
+        <label for="question-55-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-55-answers" id="question-55-answers-C" value="C" />
+        <label for="question-55-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-55-answers" id="question-55-answers-D" value="D" />
+        <label for="question-55-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-55-answers" id="question-55-answers-E" value="E" />
+        <label for="question-55-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>56. Building things and designing things, engage you, more than daily routine tasks. </h3>
+    
+    <div>
+        <input type="radio" name="question-56-answers" id="question-56-answers-A" value="A" />
+        <label for="question-56-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-56-answers" id="question-56-answers-B" value="B" />
+        <label for="question-56-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-56-answers" id="question-56-answers-C" value="C" />
+        <label for="question-56-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-56-answers" id="question-56-answers-D" value="D" />
+        <label for="question-56-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-56-answers" id="question-56-answers-E" value="E" />
+        <label for="question-56-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>57. You can easily notice mistakes in music, whether it is you yourself having slightly sour notes or it is the person behind you in the chorus. </h3>
+    
+    <div>
+        <input type="radio" name="question-57-answers" id="question-57-answers-A" value="A" />
+        <label for="question-57-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-57-answers" id="question-57-answers-B" value="B" />
+        <label for="question-57-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-57-answers" id="question-57-answers-C" value="C" />
+        <label for="question-57-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-57-answers" id="question-57-answers-D" value="D" />
+        <label for="question-57-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-57-answers" id="question-57-answers-E" value="E" />
+        <label for="question-57-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>58. You can see relationships between apparently unrelated factors. </h3>
+    
+    <div>
+        <input type="radio" name="question-58-answers" id="question-58-answers-A" value="A" />
+        <label for="question-58-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-58-answers" id="question-58-answers-B" value="B" />
+        <label for="question-58-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-58-answers" id="question-58-answers-C" value="C" />
+        <label for="question-58-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-58-answers" id="question-58-answers-D" value="D" />
+        <label for="question-58-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-58-answers" id="question-58-answers-E" value="E" />
+        <label for="question-58-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>59. Cash flow analysis, budgetary explanation and expenditure control, are some of your strengths.</h3>
+    
+    <div>
+        <input type="radio" name="question-59-answers" id="question-59-answers-A" value="A" />
+        <label for="question-59-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-59-answers" id="question-59-answers-B" value="B" />
+        <label for="question-59-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-59-answers" id="question-59-answers-C" value="C" />
+        <label for="question-59-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-59-answers" id="question-59-answers-D" value="D" />
+        <label for="question-59-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-59-answers" id="question-59-answers-E" value="E" />
+        <label for="question-59-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<h3>60. Depending on the situation, gathering up and binding together of information, can be accomplished by you in a split second. </h3>
+    
+    <div>
+        <input type="radio" name="question-60-answers" id="question-60-answers-A" value="A" />
+        <label for="question-60-answers-A">A)Yes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-60-answers" id="question-60-answers-B" value="B" />
+        <label for="question-60-answers-B">B)Mostly</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-60-answers" id="question-60-answers-C" value="C" />
+        <label for="question-60-answers-C">C)Not Sure</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-60-answers" id="question-60-answers-D" value="D" />
+        <label for="question-60-answers-D">D)Rarely</label>
+    </div>
+    <div>
+        <input type="radio" name="question-60-answers" id="question-60-answers-E" value="E" />
+        <label for="question-60-answers-E">E)No</label>
+    </div>
+</table>
+<table>
+<p class="a">
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\21-40.html">Previous</a>
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\61-80.html">Next</a>
+</p>
+</body>
+</html>

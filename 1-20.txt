@@ -1,0 +1,587 @@
+<html>
+<head><title>Online Behavioural Study</title></head>
+<body>
+<head>
+<style>
+p.a
+{
+word-spacing: 30cm;
+}
+</style>
+</head>
+<table>
+
+    <h3>1.One trait that dominates a personality so much that it influences nearly everything a person does is a:</h3>
+    
+    <div>
+        <input type="radio" name="question-1-answers" id="question-1-answers-A" value="A" />
+        <label for="question-1-answers-A">A) Global Trait  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" />
+        <label for="question-1-answers-B">B) Cardinal Trait </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-1-answers" id="question-1-answers-C" value="C" />
+        <label for="question-1-answers-C">C) Specific trait  Shapes</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-1-answers" id="question-1-answers-D" value="D" />
+        <label for="question-1-answers-D">D) Central Trait </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-1-answers" id="question-1-answers-E" value="E" />
+        <label for="question-1-answers-E">E) Secondary trait </label>
+    </div>
+</table>
+<table>
+
+    <h3>2.The method of science requires that independent observers must:</h3>
+    
+    <div>
+        <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
+        <label for="question-2-answers-A">A) verify data </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-2-answers" id="question-2-answers-B" value="B" />
+        <label for="question-2-answers-B">B) state a hypothesis in a form that can be tested </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-2-answers" id="question-2-answers-C" value="C" />
+        <label for="question-2-answers-C">C) derive a hypothesis from theory </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-2-answers" id="question-2-answers-D" value="D" />
+        <label for="question-2-answers-D">D) All of the above  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-2-answers" id="question-2-answers-E" value="E" />
+        <label for="question-2-answers-E">E) None of the above </label>
+    </div>
+</table>
+<table>
+
+    <h3>3.The more hot and humid the weather, the less clothing a person wears is an example of:</h3>
+    
+    <div>
+        <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" />
+        <label for="question-3-answers-A">A) moderate correlation </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-3-answers" id="question-3-answers-B" value="B" />
+        <label for="question-3-answers-B">B) low correlation  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-3-answers" id="question-3-answers-C" value="C" />
+        <label for="question-3-answers-C">C) negative correlation  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-3-answers" id="question-3-answers-D" value="D" />
+        <label for="question-3-answers-D">D) high positive correlation   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-3-answers" id="question-3-answers-E" value="E" />
+        <label for="question-3-answers-E">E) no relationship </label>
+    </div>
+</table>
+<table>
+
+    <h3>4.Talkative vs. silent; frank, open vs. secretive; adventurous vs. cautious; sociable vs. reclusive these traits describe which dimension of personality?</h3>
+    
+    <div>
+        <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" />
+        <label for="question-4-answers-A">A) Agreeableness </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-4-answers" id="question-4-answers-B" value="B" />
+        <label for="question-4-answers-B">B) Conscientiousness   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-4-answers" id="question-4-answers-C" value="C" />
+        <label for="question-4-answers-C">C) Extraversion</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-4-answers" id="question-4-answers-D" value="D" />
+        <label for="question-4-answers-D">D) Culture </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-4-answers" id="question-4-answers-E" value="E" />
+        <label for="question-4-answers-E">E) Emotional Stability </label>
+    </div>
+</table>
+
+<table>
+
+<table>
+
+    <h3>5.Approximately how many trait words for personality are there in the English language?</h3>
+    
+    <div>
+        <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
+        <label for="question-4-answers-A">A)18,000 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
+        <label for="question-5-answers-B">B)1,000 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
+        <label for="question-5-answers-C">C)10,000 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
+        <label for="question-5-answers-D">D)500</label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-5-answers" id="question-5-answers-E" value="E" />
+        <label for="question-5-answers-E">E)5,000</label>
+    </div>
+</table>
+
+<table>
+<h3>6. Who is the pioneer that proposed the 16 basic dimensions of normal personality and devised a questionnaire (16PF) to measure them?</h3>
+    
+    <div>
+        <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A" />
+        <label for="question-6-answers-A">A) Carl Jung   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-6-answers" id="question-6-answers-B" value="B" />
+        <label for="question-6-answers-B">B) Raymond Cattell  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-6-answers" id="question-6-answers-C" value="C" />
+        <label for="question-6-answers-C">C) Julian Rotter   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-6-answers" id="question-6-answers-D" value="D" />
+        <label for="question-6-answers-D">D) Gordon Allport  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-6-answers" id="question-6-answers-E" value="E" />
+        <label for="question-6-answers-E">E) None of the above</label>
+    </div>
+</table>
+<table>
+<h3>7. When analyzing a past president to describe his personality by coding letters or speeches he has written, you are using a process called</h3>
+    
+    <div>
+        <input type="radio" name="question-7-answers" id="question-7-answers-A" value="A" />
+        <label for="question-7-answers-A">A) Big Five   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-7-answers" id="question-7-answers-B" value="B" />
+        <label for="question-7-answers-B">B) content analysis   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-7-answers" id="question-7-answers-C" value="C" />
+        <label for="question-7-answers-C">C) personality assumptions   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-7-answers" id="question-7-answers-D" value="D" />
+        <label for="question-7-answers-D">D) Implicit Personality Theory   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-7-answers" id="question-7-answers-E" value="E" />
+        <label for="question-7-answers-E">E) cognitive approach</label>
+    </div>
+</table>
+<table>
+<h3>8. The best known lexical research on terms relevant to personality was conducted by whom and how many terms were compiled in this study?</h3>
+    
+    <div>
+        <input type="radio" name="question-8-answers" id="question-8-answers-A" value="A" />
+        <label for="question-8-answers-A">A) Sheldon/3    </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-8-answers" id="question-8-answers-B" value="B" />
+        <label for="question-8-answers-B">B) Ancient Greeks/4    </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-8-answers" id="question-8-answers-C" value="C" />
+        <label for="question-8-answers-C">C) Allport/17,953   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-8-answers" id="question-8-answers-D" value="D" />
+        <label for="question-8-answers-D">D) Gordon/5   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-8-answers" id="question-8-answers-E" value="E" />
+        <label for="question-8-answers-E">E) Cattell/18,835</label>
+    </div>
+</table>
+<table>
+<h3>9. During psychology you are falling asleep. You know last night you only got three hours of sleep; therefore you have a valid reason. The person sitting in front of you is sleeping also. You automatically think that they are lazy and really don?t care about the class. This is an example of</h3>
+    
+    <div>
+        <input type="radio" name="question-9-answers" id="question-9-answers-A" value="A" />
+        <label for="question-9-answers-A">A) Halo effect     </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-9-answers" id="question-9-answers-B" value="B" />
+        <label for="question-9-answers-B">B) Implicit Personality Theory     </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-9-answers" id="question-9-answers-C" value="C" />
+        <label for="question-9-answers-C">C) Observer bias   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-9-answers" id="question-9-answers-D" value="D" />
+        <label for="question-9-answers-D">D) stereotype   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-9-answers" id="question-9-answers-E" value="E" />
+        <label for="question-9-answers-E">E) None of the above</label>
+    </div>
+</table>
+<table>
+<h3>10. Positive correlations (from 0.01 to 1.00) indicate that, as one factor goes ________, the other factor goes __________.</h3>
+    
+    <div>
+        <input type="radio" name="question-10-answers" id="question-10-answers-A" value="A" />
+        <label for="question-10-answers-A">A) down, up     </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-10-answers" id="question-10-answers-B" value="B" />
+        <label for="question-10-answers-B">B) up, down      </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-10-answers" id="question-10-answers-C" value="C" />
+        <label for="question-10-answers-C">C) up, up    </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-10-answers" id="question-10-answers-D" value="D" />
+        <label for="question-10-answers-D">D) both a and b    </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-10-answers" id="question-10-answers-E" value="E" />
+        <label for="question-10-answers-E">E) All of the above</label>
+    </div>
+</table>
+<table>
+
+    <h3>11.Which strategy IMPROVES the reliability of a research design?</h3>
+    
+    <div>
+        <input type="radio" name="question-11-answers" id="question-11-answers-A" value="A" />
+        <label for="question-11-answers-A">A) make the test shorter   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-11-answers" id="question-11-answers-B" value="B" />
+        <label for="question-11-answers-B">B) standardize all circumstances under which the test is administered, including instructions.  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-11-answers" id="question-11-answers-C" value="C" />
+        <label for="question-11-answers-C">C)delete all items from the test that do not correlate with the other items.</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-11-answers" id="question-11-answers-D" value="D" />
+        <label for="question-11-answers-D">D) b and c only </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-11-answers" id="question-11-answers-E" value="E" />
+        <label for="question-11-answers-E">E) a, b, and c are correct </label>
+    </div>
+</table>
+<table>
+<h3>12.Which of the statements below are FALSE?</h3>
+    
+    <div>
+        <input type="radio" name="question-12-answers" id="question-12-answers-A" value="A" />
+        <label for="question-12-answers-A">A) Since Personality psychology has competing viewpoints, it is considered a paradigm. </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-12-answers" id="question-12-answers-B" value="B" />
+        <label for="question-12-answers-B">B)Science judges the truth of statements based on the empirical method.  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-12-answers" id="question-12-answers-C" value="C" />
+        <label for="question-12-answers-C">C)Personality encompasses diverse qualities of individuals (e.g., biology, social influences, childhood experiences, etc.) </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-12-answers" id="question-12-answers-D" value="D" />
+        <label for="question-12-answers-D">D) Science demands that hypotheses be discarded if they are not confirmed by observation. </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-12-answers" id="question-12-answers-E" value="E" />
+        <label for="question-12-answers-E">E) According to the method of science, the study of private experience is problematic. </label>
+    </div>
+</table>
+<table>
+<h3>13.What correlation coefficient value would most likely represent a completely inverse proportionality between a behavior and a trait?</h3>
+    
+    <div>
+        <input type="radio" name="question-13-answers" id="question-13-answers-A" value="A" />
+        <label for="question-13-answers-A">A) 1.0  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-13-answers" id="question-13-answers-B" value="B" />
+        <label for="question-13-answers-B">B)0.25  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-13-answers" id="question-13-answers-C" value="C" />
+        <label for="question-13-answers-C">C)0.0 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-13-answers" id="question-13-answers-D" value="D" />
+        <label for="question-13-answers-D">D) 0.5 </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-13-answers" id="question-13-answers-E" value="E" />
+        <label for="question-13-answers-E">E) 1.0</label>
+    </div>
+</table>
+<table>
+<h3>14.which range best targets the number of "Central Traits" that have been identified?</h3>
+    
+    <div>
+        <input type="radio" name="question-14-answers" id="question-14-answers-A" value="A" />
+        <label for="question-14-answers-A">A) 5-8  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-14-answers" id="question-14-answers-B" value="B" />
+        <label for="question-14-answers-B">B) 5-200 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-14-answers" id="question-14-answers-C" value="C" />
+        <label for="question-14-answers-C">C)17,000-18,000  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-14-answers" id="question-14-answers-D" value="D" />
+        <label for="question-14-answers-D">D) 19,000-20,000  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-14-answers" id="question-14-answers-E" value="E" />
+        <label for="question-14-answers-E">E) None of the above</label>
+    </div>
+</table>
+<table>
+<h3>15.Which of the following examples is most likely to have a negative correlation?</h3>
+    
+    <div>
+        <input type="radio" name="question-15-answers" id="question-15-answers-A" value="A" />
+        <label for="question-15-answers-A">A) Number of hours spent studying and test scores  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-15-answers" id="question-15-answers-B" value="B" />
+        <label for="question-15-answers-B">B) Amount of violent television viewed and number of aggressive acts committed  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-15-answers" id="question-15-answers-C" value="C" />
+        <label for="question-15-answers-C">C)How many times the subject smiles per day and their unhappiness level   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-15-answers" id="question-15-answers-D" value="D" />
+        <label for="question-15-answers-D">D) Weight and height </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-15-answers" id="question-15-answers-E" value="E" />
+        <label for="question-15-answers-E">E) Your test scores and the Russian economy in 1994</label>
+    </div>
+</table>
+<table>
+<h3>16.The Ancient Greeks hypothesized that there were 4 different personality characteristics. The four characteristics are:</h3>
+    
+    <div>
+        <input type="radio" name="question-16-answers" id="question-16-answers-A" value="A" />
+        <label for="question-16-answers-A">A)irritability, optimism, pessimism, calmness </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-16-answers" id="question-16-answers-B" value="B" />
+        <label for="question-16-answers-B">B) calmness, depression, pessimism, irritability  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-16-answers" id="question-16-answers-C" value="C" />
+        <label for="question-16-answers-C">C)depression, irritability, pessimism, optimism</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-16-answers" id="question-16-answers-D" value="D" />
+        <label for="question-16-answers-D">D) irritability, depression, optimism, calmness  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-16-answers" id="question-16-answers-E" value="E" />
+        <label for="question-16-answers-E">E) calmness, optimism, pessimism, depression</label>
+    </div>
+</table>
+<table>
+<h3>17.Sheldon proposed three different types of traits. The traits that would best describe a football player would be:</h3>
+    
+    <div>
+        <input type="radio" name="question-17-answers" id="question-17-answers-A" value="A" />
+        <label for="question-17-answers-A">A)mesomorph  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-17-answers" id="question-17-answers-B" value="B" />
+        <label for="question-17-answers-B">B) endomorph  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-17-answers" id="question-17-answers-C" value="C" />
+        <label for="question-17-answers-C">C)ectomorph</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-17-answers" id="question-17-answers-D" value="D" />
+        <label for="question-17-answers-D">D) activomorph   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-17-answers" id="question-17-answers-E" value="E" />
+        <label for="question-17-answers-E">E) None of the above</label>
+    </div>
+</table>
+<table>
+<h3>18.Which of the following would be an example of a correlational strategy of academic research?</h3>
+    
+    <div>
+        <input type="radio" name="question-18-answers" id="question-18-answers-A" value="A" />
+        <label for="question-18-answers-A">A)testing a hypothesis with an experimental group  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-18-answers" id="question-18-answers-B" value="B" />
+        <label for="question-18-answers-B">B) having a group fill out questionnaires </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-18-answers" id="question-18-answers-C" value="C" />
+        <label for="question-18-answers-C">C)using the scientific method </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-18-answers" id="question-18-answers-D" value="D" />
+        <label for="question-18-answers-D">D) a clinician diagnosing his/her patient   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-18-answers" id="question-18-answers-E" value="E" />
+        <label for="question-18-answers-E">E) using the electric shock method to illustrate classical conditioning</label>
+    </div>
+</table>
+<table>
+<h3>19.If you had a correlation of positive one, the related items would be:</h3>
+    
+    <div>
+        <input type="radio" name="question-19-answers" id="question-19-answers-A" value="A" />
+        <label for="question-19-answers-A">A)completely unrelated </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-19-answers" id="question-19-answers-B" value="B" />
+        <label for="question-19-answers-B">B)moderately correlated </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-19-answers" id="question-19-answers-C" value="C" />
+        <label for="question-19-answers-C">C)very highly correlated  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-19-answers" id="question-19-answers-D" value="D" />
+        <label for="question-19-answers-D">D) identical  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-19-answers" id="question-19-answers-E" value="E" />
+        <label for="question-19-answers-E">E) lowly correlated</label>
+    </div>
+</table>
+<table>
+<h3>20.In analyzing data, measurements are sometimes categorical, for example "smiles" or "frowns". This type of measurement is called</h3>
+    
+    <div>
+        <input type="radio" name="question-20-answers" id="question-20-answers-A" value="A" />
+        <label for="question-20-answers-A">A)qualitative measurement  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-20-answers" id="question-20-answers-B" value="B" />
+        <label for="question-20-answers-B">B)quantitative measurement </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-20-answers" id="question-20-answers-C" value="C" />
+        <label for="question-20-answers-C">C)reliability </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-20-answers" id="question-20-answers-D" value="D" />
+        <label for="question-20-answers-D">D) validity  </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-20-answers" id="question-20-answers-E" value="E" />
+        <label for="question-20-answers-E">E) psychometrics</label>
+    </div>
+</table>
+<table>
+<p class="a">
+<a href="#">Home</a>
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\b.html">Next</a>
+</p>
+</body>

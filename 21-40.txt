@@ -1,0 +1,529 @@
+<html>
+<head>
+<style>
+p.a
+{word-spacing: 30cm;
+}
+</style></head>
+<body>
+<table>
+<h3>21.If you say that a movie is really good and you like it you would also assume that your best friend would like it. What implicit personality theory is this?</h3>
+    
+    <div>
+        <input type="radio" name="question-21-answers" id="question-21-answers-A" value="A" />
+        <label for="question-21-answers-A">A)stereotype </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-21-answers" id="question-21-answers-B" value="B" />
+        <label for="question-21-answers-B">B)perceived similarity   </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-21-answers" id="question-21-answers-C" value="C" />
+        <label for="question-21-answers-C">C)Halo effect    </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-21-answers" id="question-21-answers-D" value="D" />
+        <label for="question-21-answers-D">D)observer bias    </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-21-answers" id="question-21-answers-E" value="E" />
+        <label for="question-21-answers-E">E)All of the above</label>
+    </div>
+</table>
+<table>
+<h3>22.A more neutral term personality type categories or a typical or exemplary instance of a category is</h3>
+    
+    <div>
+        <input type="radio" name="question-22-answers" id="question-22-answers-A" value="A" />
+        <label for="question-22-answers-A">A)stereotype </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-22-answers" id="question-22-answers-B" value="B" />
+        <label for="question-22-answers-B">B)observation bias  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-22-answers" id="question-22-answers-C" value="C" />
+        <label for="question-22-answers-C">C)openness  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-22-answers" id="question-22-answers-D" value="D" />
+        <label for="question-22-answers-D">D)open-minded   </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-22-answers" id="question-22-answers-E" value="E" />
+        <label for="question-22-answers-E">E)prototype</label>
+    </div>
+</table>
+<table>
+<h3>23. If one is measuring the relationship between two things and the research he or she does shows that there is absolutely no relation existing between the two, the correlation is said to be</h3>
+    
+    <div>
+        <input type="radio" name="question-23-answers" id="question-23-answers-A" value="A" />
+        <label for="question-23-answers-A">A)0 </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-23-answers" id="question-23-answers-B" value="B" />
+        <label for="question-23-answers-B">B)0.8</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-23-answers" id="question-23-answers-C" value="C" />
+        <label for="question-23-answers-C">C)1</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-23-answers" id="question-23-answers-D" value="D" />
+        <label for="question-23-answers-D">D)-1</label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-23-answers" id="question-23-answers-E" value="E" />
+        <label for="question-23-answers-E">E)prototype</label>
+    </div>
+</table>
+<table>
+<h3>24.From the Big Five personality dimensions, behaviors such as speaking fluently, displaying ambition, and exhibiting a high degree of intelligence is</h3>
+    
+    <div>
+        <input type="radio" name="question-24-answers" id="question-24-answers-A" value="A" />
+        <label for="question-24-answers-A">A)Agreeableness </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-24-answers" id="question-24-answers-B" value="B" />
+        <label for="question-24-answers-B">B)Openness </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-24-answers" id="question-24-answers-C" value="C" />
+        <label for="question-24-answers-C">C)Extraversion</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-24-answers" id="question-24-answers-D" value="D" />
+        <label for="question-24-answers-D">D)Conscientiousness</label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-24-answers" id="question-24-answers-E" value="E" />
+        <label for="question-24-answers-E">E)Neuroticism</label>
+    </div>
+</table>
+<table>
+<h3>25.Psychologists seek to understand Rob?s personality through his thoughts, beliefs and their impact on his behavior in certain situations. This is known as the</h3>
+    
+    <div>
+        <input type="radio" name="question-25-answers" id="question-25-answers-A" value="A" />
+        <label for="question-25-answers-A">A)trait approach </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-25-answers" id="question-25-answers-B" value="B" />
+        <label for="question-25-answers-B">B)humanistic approach </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-25-answers" id="question-25-answers-C" value="C" />
+        <label for="question-25-answers-C">C)cognitive approach </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-25-answers" id="question-25-answers-D" value="D" />
+        <label for="question-25-answers-D">D)psychoanalytic approach </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-25-answers" id="question-25-answers-E" value="E" />
+        <label for="question-25-answers-E">E)All of the above</label>
+    </div>
+</table>
+<table>
+<h3>26.Devin?s personality is researched through 3 factors: extraversion, neuroticism and psychoticism. This personality trait model is called:</h3>
+    
+    <div>
+        <input type="radio" name="question-26-answers" id="question-26-answers-A" value="A" />
+        <label for="question-26-answers-A">A)Eysenck?s Trait Model </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-26-answers" id="question-26-answers-B" value="B" />
+        <label for="question-26-answers-B">B)Myers-Briggs Type Indicator </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-26-answers" id="question-26-answers-C" value="C" />
+        <label for="question-26-answers-C">C)Smith Model </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-26-answers" id="question-26-answers-D" value="D" />
+        <label for="question-26-answers-D">D)Cattell?s Sixteen factor Model </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-26-answers" id="question-26-answers-E" value="E" />
+        <label for="question-26-answers-E">E)Big Five</label>
+    </div>
+</table>
+<table>
+<h3>27. What type of personality focuses on how people adapt to everyday life and intervenes to improve the lives of individuals through therapy?</h3>
+    
+    <div>
+        <input type="radio" name="question-27-answers" id="question-27-answers-A" value="A" />
+        <label for="question-27-answers-A">A) Academic psychology</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-27-answers" id="question-27-answers-B" value="B" />
+        <label for="question-27-answers-B">B)Clinical Psychology </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-27-answers" id="question-27-answers-C" value="C" />
+        <label for="question-27-answers-C">C)Practical Psychology </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-27-answers" id="question-27-answers-D" value="D" />
+        <label for="question-27-answers-D">D)Applied Psychology </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-27-answers" id="question-27-answers-E" value="E" />
+        <label for="question-27-answers-E">E)None of the above</label>
+    </div>
+</table>
+<table>
+<h3>28.Which of the following would be a phenomenological approach to the study of personality?</h3>
+    
+    <div>
+        <input type="radio" name="question-28-answers" id="question-28-answers-A" value="A" />
+        <label for="question-28-answers-A">A)emphasize subjects feelings  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-28-answers" id="question-28-answers-B" value="B" />
+        <label for="question-28-answers-B">B)emphasize subjects thoughts  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-28-answers" id="question-28-answers-C" value="C" />
+        <label for="question-28-answers-C">C)emphasize the meaning that people ascribe to events, not simply the objective events themselves  </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-28-answers" id="question-28-answers-D" value="D" />
+        <label for="question-28-answers-D">D)attempt to understand an individual in his or her fullness, rather than only selected aspects of the person relevant to a small number of traits or other dimensions</label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-28-answers" id="question-28-answers-E" value="E" />
+        <label for="question-28-answers-E">E)All of the above</label>
+    </div>
+</table>
+<table>
+<h3>29. What is the trait approach to personality?</h3>
+    
+    <div>
+        <input type="radio" name="question-29-answers" id="question-29-answers-A" value="A" />
+        <label for="question-29-answers-A">A)Assumes that people are motivated by unconscious emotional conflicts</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-29-answers" id="question-29-answers-B" value="B" />
+        <label for="question-29-answers-B">B)Assumes that each individual has stable personality characteristics </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-29-answers" id="question-29-answers-C" value="C" />
+        <label for="question-29-answers-C">C)Assumes that peoples thoughts and beliefs are central to personality</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-29-answers" id="question-29-answers-D" value="D" />
+        <label for="question-29-answers-D">D)Assumes that people have an innate tendency to become self-actualized</label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-29-answers" id="question-29-answers-E" value="E" />
+        <label for="question-29-answers-E">E)Assumes that people are motivated by conflicts originating in childhood</label>
+    </div>
+</table>
+<table>
+<h3>30. William Sheldon suggested that body build was associated with personality traits. Which one best describes a person whos sensitive and intellectual?</h3>
+    
+    <div>
+        <input type="radio" name="question-30-answers" id="question-30-answers-A" value="A" />
+        <label for="question-30-answers-A">A)conservative </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-30-answers" id="question-30-answers-B" value="B" />
+        <label for="question-30-answers-B">B)neurotic </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-30-answers" id="question-30-answers-C" value="C" />
+        <label for="question-30-answers-C">C)endomorph </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-30-answers" id="question-30-answers-D" value="D" />
+        <label for="question-30-answers-D">D)mesomorph </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-30-answers" id="question-30-answers-E" value="E" />
+        <label for="question-30-answers-E">E)ectomorph</label>
+    </div>
+</table>
+<table>
+<h3>31. Eysenck originally developed ________________, a highly researched factor theory of personality.</h3>
+    
+    <div>
+        <input type="radio" name="question-31-answers" id="question-31-answers-A" value="A" />
+        <label for="question-31-answers-A">A)an interpersonal trait model </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-31-answers" id="question-31-answers-B" value="B" />
+        <label for="question-31-answers-B">B)a sixteen factor model </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-31-answers" id="question-31-answers-C" value="C" />
+        <label for="question-31-answers-C">C)a three factor model </label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-31-answers" id="question-31-answers-D" value="D" />
+        <label for="question-31-answers-D">D)the Big Five </label>
+    </div>
+
+    <div>
+        <input type="radio" name="question-31-answers" id="question-31-answers-E" value="E" />
+        <label for="question-31-answers-E">E)the Implicit personality theory</label>
+    </div>
+</table>
+<table>
+<h3>32 Emotional intelligence is different from other intelligences in that …</h3>
+    
+    <div>
+        <input type="radio" name="question-32-answers" id="question-32-answers-A" value="A" />
+        <label for="question-32-answers-A">A)it is a set of skills</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-32-answers" id="question-32-answers-B" value="B" />
+        <label for="question-32-answers-B">B)it can be measured using tests easily</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-32-answers" id="question-32-answers-C" value="C" />
+        <label for="question-32-answers-C">C)the focus is on emotional reasoning, ability and knowledge</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-32-answers" id="question-32-answers-D" value="D" />
+        <label for="question-32-answers-D">D)it is a new type of intelligence</label>
+    </div>
+</table>
+<table>
+<h3>33. Emotional intelligence can be studied through …</h3>
+    
+    <div>
+        <input type="radio" name="question-33-answers" id="question-33-answers-A" value="A" />
+        <label for="question-33-answers-A">A)the abilities-focussed approach</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-33-answers" id="question-33-answers-B" value="B" />
+        <label for="question-33-answers-B">B)the integrative model approach</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-33-answers" id="question-33-answers-C" value="C" />
+        <label for="question-33-answers-C">C)the mixed model approach</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-33-answers" id="question-33-answers-D" value="D" />
+        <label for="question-33-answers-D">D)all of the above</label>
+    </div>
+</table>
+<table>
+<h3>34. Which of the following describes how Ability Emotional Intelligence and Trait Emotional Intelligence are different?</h3>
+    
+    <div>
+        <input type="radio" name="question-34-answers" id="question-34-answers-A" value="A" />
+        <label for="question-34-answers-A">A)The way they are measured</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-34-answers" id="question-34-answers-B" value="B" />
+        <label for="question-34-answers-B">B)The way they are conceptualized</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-34-answers" id="question-34-answers-C" value="C" />
+        <label for="question-34-answers-C">C)The way they correlate with other constructs</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-34-answers" id="question-34-answers-D" value="D" />
+        <label for="question-34-answers-D">D)all of the above</label>
+    </div>
+</table>
+<table>
+<h3>35. Incremental validity refers to …</h3>
+    
+    <div>
+        <input type="radio" name="question-35-answers" id="question-35-answers-A" value="A" />
+        <label for="question-35-answers-A">A)the additional contribution a new psychological idea makes to existing knowledge</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-35-answers" id="question-35-answers-B" value="B" />
+        <label for="question-35-answers-B">B)the additional evidence provided by new research</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-35-answers" id="question-35-answers-C" value="C" />
+        <label for="question-35-answers-C">C)the way research findings are reinterpreted</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-35-answers" id="question-35-answers-D" value="D" />
+        <label for="question-35-answers-D">D)the way statements are written in new tests</label>
+    </div>
+</table>
+<table>
+<h3>36. When predicting intellectual academic performance in medical students, EI showed …</h3>
+    
+    <div>
+        <input type="radio" name="question-36-answers" id="question-36-answers-A" value="A" />
+        <label for="question-36-answers-A">A)it is essentially social skills</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-36-answers" id="question-36-answers-B" value="B" />
+        <label for="question-36-answers-B">B)large incremental validity</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-36-answers" id="question-36-answers-C" value="C" />
+        <label for="question-36-answers-C">C)no incremental validity</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-36-answers" id="question-36-answers-D" value="D" />
+        <label for="question-36-answers-D">D)a deterioration in its display</label>
+    </div>
+</table>
+<table>
+<h3>37. Which of the following is the best predictor of academic performance?</h3>
+    
+    <div>
+        <input type="radio" name="question-37-answers" id="question-37-answers-A" value="A" />
+        <label for="question-37-answers-A">A)Trait EI</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-37-answers" id="question-37-answers-B" value="B" />
+        <label for="question-37-answers-B">B)IQ</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-37-answers" id="question-37-answers-C" value="C" />
+        <label for="question-37-answers-C">C)Personality</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-37-answers" id="question-37-answers-D" value="D" />
+        <label for="question-37-answers-D">D)None of these</label>
+    </div>
+</table>
+<table>
+<h3>38. Mixed Emotional Intelligence models have …</h3>
+    
+    <div>
+        <input type="radio" name="question-38-answers" id="question-38-answers-A" value="A" />
+        <label for="question-38-answers-A">A)significant overlap with conscientiousness, extraversion, and self-efficacy</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-38-answers" id="question-38-answers-B" value="B" />
+        <label for="question-38-answers-B">B)no significant overlap with conscientiousness, extraversion, and self-efficacy</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-38-answers" id="question-38-answers-C" value="C" />
+        <label for="question-38-answers-C">C)non-significant overlap with conscientiousness, extraversion, and self-efficacy</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-38-answers" id="question-38-answers-D" value="D" />
+        <label for="question-38-answers-D">D)little overlap with conscientiousness, extraversion, and self-efficacy</label>
+    </div>
+</table>
+<table>
+<h3>39. The higher the Trait EI …</h3>
+    
+    <div>
+        <input type="radio" name="question-39-answers" id="question-39-answers-A" value="A" />
+        <label for="question-39-answers-A">A)the higher the likelihood of personality disorder</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-39-answers" id="question-39-answers-B" value="B" />
+        <label for="question-39-answers-B">B)the lower the likelihood of personality disorder</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-39-answers" id="question-39-answers-C" value="C" />
+        <label for="question-39-answers-C">C)the higher the likelihood of self-harm</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-39-answers" id="question-39-answers-D" value="D" />
+        <label for="question-39-answers-D">D)the higher the likelihood of harm to others</label>
+    </div>
+</table>
+<table>
+<h3>40. EI is linked to romantic relationship satisfaction because EI may be linked to …</h3>
+    
+    <div>
+        <input type="radio" name="question-40-answers" id="question-40-answers-A" value="A" />
+        <label for="question-40-answers-A">A)having better understanding of the partner’s emotions</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-40-answers" id="question-40-answers-B" value="B" />
+        <label for="question-40-answers-B">B)giving the person higher self-esteem</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-40-answers" id="question-40-answers-C" value="C" />
+        <label for="question-40-answers-C">C)agreeing with the partner all the time</label>
+    </div>
+    
+    <div>
+        <input type="radio" name="question-40-answers" id="question-40-answers-D" value="D" />
+        <label for="question-40-answers-D">D)getting what one wants out of the relationship</label>
+    </div>
+</table>
+<p class="a">
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\1-20.html">Previous</a>
+<a href="D:\Company\Projects\Online Behavioral Study\quiz\41-60.html">Next</a>
+</p>
+</body>
+</html>
